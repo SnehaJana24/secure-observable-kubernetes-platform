@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 COPY app/package*.json ./
 
-RUN npm install
+RUN npm ci --omit=dev
 
 COPY app/ ./
 
