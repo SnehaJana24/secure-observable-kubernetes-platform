@@ -514,11 +514,7 @@ docker run -d --name secure-observable-test \\
 
 | Grafana alerting | ✅ |
 
-| Alert failure \& recovery test | ✅ |
-
-
-
-\---
+| Alert failure \& recovery test | ✅ |---
 
 
 
