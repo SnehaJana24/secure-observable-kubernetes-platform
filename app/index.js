@@ -30,7 +30,7 @@ app_requests_total ${requestCount}
 
 # HELP app_health_status Health status of the application
 # TYPE app_health_status gauge
-app_health_status 1
+app_health_status 0
 `);
 
     return;
